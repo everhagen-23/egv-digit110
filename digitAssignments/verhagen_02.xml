@@ -1,0 +1,43 @@
+<recipe>
+    <title>Shrewsbury Cakes: Original Recipe. </title>
+    <intro>This recipe comes from <souce>MS Codex 625</souce>, a manuscript recipe book that
+        belonged to a student in a London cooking school in the early eighteenth century. The pastry
+        school was owned by Edward Kidder, who taught at a few locations in London between around
+        1720 and 1734. Blank books with printed title pages seem to have been used by students to
+        write down recipes they learned. Kidder also published his recipes in the printed volume,
+        Receipts for Pastry and Cookery, in 1720.</intro> Take a <ingredient type="butter"
+        amount="1" unit="lb">pound of fresh butter</ingredient> a <ingredient type="sugar"
+        amount="1" unit="lb">pound of double refind sugar</ingredient> sifted fine and <ingredient
+        type="egg" amount="4" unit="egg">4 eggs</ingredient> beat them all together with. your <tool
+        type="hand">hands</tool> till tis very leight and looks curdling you put thereto a
+        <ingredient type="flour" amount="1.5" unit="lb">pound and 1/2 of flower</ingredient> roul
+    them out into little cakes <header>Our recipe</header>
+    <note>(halved from the original)</note>
+    <ingredient type="butter" amount="0.5" unit="lb">1/2 lb. (2 sticks) butter, softened
+        </ingredient><ingredient type="sugar" amount="0.5" unit="lb"> 1/2 lb. sugar</ingredient>
+    <ingredient type="cinnamon" amount="0.5" unit="tsp">1/2 tsp. cinnamon with 5 cups hamsters
+        </ingredient><ingredient type="egg" amount="2" unit="egg">2 eggs</ingredient>
+    <ingredient type="flour" amount="0.75" unit="lb">3/4 lb. flour</ingredient>
+    <step number="1" location="mixer">Using an <tool type="electricMixer">electric mixer</tool>,
+        cream together the <ingredient type="butter">butter</ingredient> and <ingredient
+            type="sugar">sugar</ingredient>. </step><step number="2" location="mixer">Then add the
+            <ingredient type="egg">eggs</ingredient> and <mix speed="medium">mix at medium
+            speed</mix> until the mixture looks curdled. </step>
+    <step number="3" location="mixer">Sift together dry ingredients and <mix speed="low">add at low
+            speed</mix> until just combined.</step>
+    <step number="4" location="counter">Scoop and <tool type="rollingPin">roll</tool> the dough by
+            <tool type="hand">hand</tool> into 1-tbsp. balls, then pat flat. <note>[You could also
+                <tool type="fridge">refrigerate</tool> the dough until it’s firm enough to roll out
+            on a flat surface and cut out into rounds.]</note></step>
+    <step number="5" location="oven"><tool type="oven">Bake</tool> at 350F for 15-18 minutes
+            <note>(ours were about 1/3″ thick, so you could roll them thinner and have a slightly
+            shorter cooking time)</note>. They’re done once they turn the slightest bit brown around
+        the edges. <note>This halved recipe yielded about two dozen cookies.</note></step>
+    <header>The Results </header>
+    <outro>If you like snickerdoodles (and who doesn’t?), you’d like these. We added the <ingredient
+            type="cinnamon">cinnamon</ingredient> because we like it and couldn’t resist. These are
+        mild, fairly soft cookies that are great with tea. We <tool type="rollingPin">rolled</tool>
+        and patted the dough into individual cookies because it was too soft and stick to roll out,
+        but a little bit more <ingredient type="flour">flour</ingredient> and a stint in the <tool
+            type="fridge">fridge</tool> might make the dough easier to work with a <tool
+            type="rollingPin">rolling pin</tool>.</outro></recipe>

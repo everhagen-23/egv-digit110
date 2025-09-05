@@ -1,0 +1,231 @@
+<root>
+    <nav>Home/Daily Menu </nav>
+    <title>Food Services Menus </title>
+    <menu info="date">Saturday, August 30 </menu>
+    <menu info="meal">Dinner </menu>
+    <menu info="location">Behrend - Dobbins </menu>
+<!-- these are drop down menus on the website!!-->
+    <button color="blue">Set Dietary Filters</button>
+    <button color="blue">Pre-Order Specialty Item/Meal</button>
+    <title>Dinner for Saturday, August 30, 2025 </title>
+    <location>Behrend - Dobbins</location>
+    <divider/>
+    <note>* Menus subject to change based on product availability. </note>
+    <station spec="healthyEating">
+        <title>HEALTHY EATING</title>
+        <item>
+            <food type="item">Brown Rice</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Grilled Chicken</food>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Italian Vegetables</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+    </station>
+    <station spec="Pizza">
+        <title>PIZZA</title>
+        <item>
+            <food type="item">Cheese Pizza</food>
+            <dr type="meatless">Meatless</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Pepperoni Pizza</food>
+            <dr type="containsPork">Contains Pork</dr>
+        </item>
+        <item>
+            <food type="item">White Vegetable Pizza</food>
+            <dr type="meatless">Meatless</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+    </station>
+    <station spec="mediterranean">
+        <title>MEDITERRANEAN </title>
+        <item>
+            <food type="item">Creamy Cajun Pasta</food>
+            <dr type="meatless">Meatless</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="condiment">Milano Sauce</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Penne Pasta</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+    </station>
+    <station spec="vegan">
+        <title>VEGAN</title>
+        <item type="item">Hot Cauliflower Wings <dr type="vegan">Vegan</dr></item>
+        <item type="condiment">Vegan Ranch Dressing <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr></item>
+    </station>
+    <station spec="hometstyle">
+        <title>HOMESTYLE SIDES</title>
+        <item>
+            <food type="item">Honey Ginger Carrots</food>
+            <dr type="meatless">Meatless</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Roasted Garlic Mashed Potatoes </food>
+            <dr type="meatless">Meatless</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <title>HOMESTYLE ENTREE </title>
+        <item>
+            <food type="item">Buffalo Pierogies</food>
+            <dr type="meatless">Meatless</dr>
+        </item>
+        <item>
+            <food type="item">Marry Me Chicken</food>
+        </item>
+    </station>
+    <station spec="desserts">
+        <title>DESSERTS </title>
+        <item>
+            <food type="item">Applesauce</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Chocolate Chocolate Chip Cookie</food>
+            <dr type="meatless">Meatless</dr>
+        </item>
+    </station>
+    <station spec="mtoBowl">
+        <title>MTO BOWL BASE</title>
+        <item>
+            <food type="item">Rice</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <title>MTO BOWL HOT TOPPINGS </title>
+        <item>
+            <food type="item">Beef Taco Meat</food>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Black Beans</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <tem>
+            <food type="item">Charred Corn</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </tem>
+        <item>
+            <food type="item">Chicken Taco Filling</food>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+        </item>
+        <item>
+            <food type="item">Fajita Shrimp</food>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="condiment">Queso Blanco</food>
+            <dr type="meatless">Meatless</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <title>MTO BOWL COLD TOPPINGS </title>
+        <item>
+            <food type="item">Diced Red Onions</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">GrapeTomatoes</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Romaine</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="condiment">Salsa</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Shredded Monterey Jack Cheese</food>
+            <dr type="meatless">Meatless</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Sliced Jalapeno Peppers</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="item">Tortilla Strips</food>
+            <dr type="vegan">Vegan</dr>
+        </item>
+        <title>MTO BOWL SAUCES </title>
+        <item>
+            <food type="condiment">Cilantro Lime Sauce</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="condiment">Spicy Sour Cream</food>
+            <dr type="meatless">Meatless</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="condiment">Sriracha Hot Sauce </food>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+        <item>
+            <food type="condiment">Taco Sauce</food>
+            <dr type="vegan">Vegan</dr>
+            <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+            <dr type="halalFriendly">Halal Friendly</dr>
+        </item>
+    </station>
+<legend>    <title>Legend</title>
+    <dr type="glutenFriendly">Gluten Friendly - made w/o gluten-containing items</dr>
+
+    <dr type="halalFriendly">Halal Friendly</dr>
+
+    <dr type="meatless">Meatless</dr>
+
+    <dr type="containsPork">Contains Pork</dr>
+    <dr type="vegan">Vegan</dr>
+
+    <note>* Fried vegan and meatless items may be prepared in a shared fryer. Fried halal friendly
+        and gluten friendly items will not be prepared in a shared fryer.</note></legend>
+</root>
