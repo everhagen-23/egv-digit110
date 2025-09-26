@@ -1,0 +1,12 @@
+start = root
+root =  letter
+letter = element letter {p+}
+p = element p {n,text,mixed{page*}, mixed{type*,notDoc*,type*}}
+page = element page {n,text, mixed{type*,notDoc*,type*}}
+n = attribute n {xsd:integer}
+type = element type {style, bold*, reason*, placement*,text+}
+style = attribute style {"cursive" | "print" |"blackOut"}
+bold = attribute bold {"yes"|"no"}
+reason = attribute reason {"addition"|"correction"|"blackOut"}
+placement = attribute placement {"above"|"margin"|"below"}
+notDoc = element notDoc {text}
