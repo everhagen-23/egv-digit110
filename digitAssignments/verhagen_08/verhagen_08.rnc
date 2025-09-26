@@ -1,0 +1,29 @@
+start = root
+root =
+    element ep {
+        n,
+        mixed { card* | dialogue* | song* }*
+    }
+n = attribute n { xsd:integer }
+song = element song { music }
+music = attribute music { "OP" | "ZUM" | "ED" | "Duel" }
+dialogue = element dialogue { by, where, text }
+card = element card { type, text }
+by =
+    attribute by {
+        "voice"
+        | "Wakaba"
+        | "unnamed"
+        | "Utena"
+        | "Anthy"
+        | "multiple"
+        | "teacher"
+        | "Juri"
+        | "Miki"
+        | "Touga"
+        | "Saionji"
+        | "SGA"
+        | "SGB"
+    }
+where = attribute where { "nd" | "os" | "ofs" }
+type = attribute type { "title" | "location" }

@@ -1,0 +1,201 @@
+<?xml-model href="../verhagen_08/verhagen_08.rnc" type="application/relax-ng-compact-syntax"?>
+<ep n="1">
+    <song music="OP"/>
+    <dialogue by="voice" where="nd">Once upon a time... ...there was a princess grieving over the
+        deaths of her mother and father. Before this princess appeared a prince traveling upon a
+        white horse. His appearance gallant, and his smile gentle, the prince enveloped the princess
+        in the scent of roses, and wiped away her tears. "Little one bearing up alone under grief,
+        please lose not thy strength and nobility when thou growest up." "As a token of this day,
+        please retain this." "Pray, shall we meet once more?" "This ring should guide thee to me."
+        Was the ring from the prince meant as an engagement ring? That part was good, but because of
+        the strength of her admiration for the prince, the princess made up her mind to become a
+        prince herself! But is that really good for her?</dialogue>
+    <card type="title">The Rose Bride </card><dialogue by="Wakaba" where="os">It's late... Man, how
+        much longer should I have to wait? I'm not going to be late the beginning of the new
+        term.</dialogue>
+    <dialogue by="unnamed" where="os">Wakaba! What are you doing over there?</dialogue>
+    <dialogue by="Wakaba" where="os">Waiting to see my boyfriend! </dialogue><dialogue by="unnamed"
+        where="os">Boyfriend? Ha ha.. guessed you got dumped, then. Your "boyfriend" left the dorm
+        earlier this morning.</dialogue>
+    <dialogue by="Wakaba" where="os">Why, you... how could you?! </dialogue><card type="location">
+        Ohtori Academy Junior and Senior High School</card>
+    <dialogue by="teacher" where="os">Tenjou Utena-san. Do you plan to keep on wearing those strange
+        clothes this semester?</dialogue>
+    <dialogue by="Utena" where="os">Strange? </dialogue><dialogue by="teacher" where="os">Strange.
+    </dialogue>All the boys are dressed like I am. <dialogue by="teacher" where="os">You are a girl!
+        So why do you keep on wearing a boy's uniform?</dialogue>
+    <dialogue by="Utena" where="os">There's no rule here that says a girl can't wear a boy's
+        uniform. No problem then! So, in that case...</dialogue>
+    <dialogue by="teacher" where="os">You little... You're going to keep evading me this semester,
+        too, aren't you... </dialogue><dialogue by="unnamed" where="os">Go, Utena!!</dialogue>
+    <dialogue by="unnamed" where="os">Sheesh, skunked again... </dialogue><dialogue by="unnamed"
+        where="os">Oh, Utena, use my towel, too! </dialogue><dialogue by="Utena" where="os">Sure,
+        sure, wait your turn.</dialogue>
+    <dialogue by="unnamed" where="os">Say, Tenjou, if you'd just join our basketball team, the local
+        playoffs would be a sure thing!</dialogue>
+    <dialogue by="Utena" where="os">Now look! I'm a girl, you know. I don't like playing basketball
+        with a bunch of stinking, sweaty boys.</dialogue>
+    <dialogue by="unnamed" where="os">Why not? You're mighty boyish yourself, Tenjou.
+        </dialogue><dialogue by="Utena" where="os">Don't say such rude things.</dialogue>
+    <dialogue by="unnamed" where="os">Well then, why do you wear that boy's uniform?
+        </dialogue><dialogue by="Utena" where="os">That's "prince." </dialogue><dialogue
+        by="unnamed" where="os">Huh?</dialogue>
+    <dialogue by="Utena" where="os">Instead of a princess to be protected, I want to become a
+        dashing prince.</dialogue>
+    <dialogue by="unnamed" where="os">What's that mean? </dialogue><dialogue by="Utena" where="os"
+        >That smell... It's the smell of roses. How long have I felt nostalgic over the scent of
+        roses? What's going on over there? A lovers' quarrel? At least do that someplace where no
+        one else can see you. Hey, hey... that's going a bit too far. Whew...</dialogue>
+    <dialogue by="Wakaba" where="os">Utena! </dialogue>Wakaba.. you're heavy... <dialogue
+        by="Wakaba" where="os">This is your punishment for leaving me behind this morning. Now say
+        you're sorry! </dialogue><dialogue by="Utena" where="os">Okay, okay...</dialogue>
+    <dialogue by="Wakaba" where="os">Oh, Saionji! </dialogue><dialogue by="Utena" where="os"
+        >Saionji?</dialogue>
+    <dialogue by="Wakaba" where="os">You don't know who Saionji is? </dialogue><dialogue by="Utena"
+        where="os">Oh, is he famous? I know who the guy in front of him is. That's got to be Kiryuu
+        Touga, the Student Council President, right?</dialogue>
+    <dialogue by="Wakaba" where="os">Yep! And the other guy is the Vice-President, Saionji Kyouichi.
+        </dialogue><dialogue by="Utena" where="os">What about her?</dialogue>
+    <dialogue by="Wakaba" where="os">Ahh... that's Himemiya Anthy. </dialogue><dialogue by="Utena"
+        where="os">Himemiya... Anthy...</dialogue>
+    <dialogue by="Wakaba" where="os">All she does is take care of the roses, though no one's asked
+        her to. She's so weird. She'll be in our class from now on.</dialogue>
+    <dialogue by="Utena" where="os">So, is Saionji going out with that Himemiya girl?
+        </dialogue><dialogue by="Wakaba" where="os">Not even! Tough old Saionji could never have any
+        feelings for a girl like her. The only reason they're together is because they're both part
+        of the Student Council</dialogue>. <dialogue by="Utena" where="os">Wakaba... he's sort of
+        your type, isn't he? </dialogue><dialogue by="Wakaba" where="os">Oh, I hate it when you get
+        jealous! Don't you worry, I belong only to you. After all, you're much, much cooler than any
+        boy!</dialogue>
+    <dialogue by="Saionji" where="os">This is a sudden meeting, fellow Councilors...
+        </dialogue><dialogue by="Miki" where="os">Saionji-san, we are the chosen members of the Rose
+        Seal.</dialogue>
+    <dialogue by="Juri" where="os">Don't forget that our one and only rule is to uphold the Code.
+        </dialogue><dialogue by="Touga" where="os">Saionji, we have a problem with the way you've
+        been treating the Bride recently. </dialogue><dialogue by="Saionji" where="os">Oh, is that
+        so?</dialogue>
+    <dialogue by="Touga" where="os">Certainly, she is engaged to you currently. However, that
+        doesn't mean you can do whatever you please to her.</dialogue>
+    <dialogue by="Miki" where="os">"Whatever he pleases?" </dialogue><dialogue by="Juri" where="os"
+        >"Whatever he pleases," you say? </dialogue><dialogue by="Touga" where="os">Quit abusing the
+        Bride, Saionji. The existence of our Student Council is the behest of the Ends of the World.
+        Should they know of this matter, the Ends of the World will be displeased.</dialogue>
+    <dialogue by="Saionji" where="os">Stay out of this. Presently, the Bride and I are deeply in
+        love. I don't want to hear complaints from the likes of you.</dialogue>
+    <dialogue by="Miki" where="os">"Deeply in love?" </dialogue><dialogue by="Anthy" where="os"
+        >Right now, I am Saionji's Bride. I will do everything he wishes.</dialogue>
+    <dialogue by="Saionji" where="os">Well, that's how it is between us. If you're so concerned with
+        the Code, then win back the Bride in a duel in accordance with the Code,
+        Councilors.</dialogue>
+    <dialogue by="Touga" where="os">Don't forget that the next duel will be soon upon-
+        </dialogue><dialogue by="Saionji" where="os">I'm already looking forward to whoever it is
+        that will challenge me. </dialogue>
+    <dialogue by="Wakaba" where="os">Ooh, that's so pretty... that rose pattern. Say, that's our
+        school emblem, isn't it?</dialogue>
+    <dialogue by="Utena" where="os">Sure looks like it. </dialogue><dialogue by="Wakaba" where="os"
+        >Who'd you get it from? </dialogue><dialogue by="Utena" where="os">A prince on a white
+        horse. "This ring should guide thee to me."</dialogue>
+    <dialogue by="Wakaba" where="os">What's that about? </dialogue><dialogue by="Utena" where="os">I
+        think someone said that to me when he gave me the ring, but I was real little then, so I
+        don't remember too well.</dialogue>
+    <dialogue by="Wakaba" where="os">I know what you mean. When I was a little girl, my mama said to
+        me, "You're the princess of the Onion Kingdom!" and I actually believed her.</dialogue>
+    <dialogue by="Utena" where="os">So your head's always been shaped like that, huh?
+        </dialogue><dialogue by="Wakaba" where="os">I wonder what that's about...
+        </dialogue><dialogue by="multiple" where="os">Now what's this?</dialogue>
+    <dialogue by="Utena" where="os">What's going on here? </dialogue><dialogue by="unnamed"
+        where="os">Someone's love letter got posted here.</dialogue>
+    <dialogue by="Utena" where="os">Love letter? </dialogue><dialogue by="unnamed" where="os">hmmm,
+        let's see... "so then I was dancing with you in my dreams, Saionji-san." "You were smiling
+        so gently. You must think I'm such an idiot." Heh! I'll say!</dialogue>
+    <dialogue by="Utena" where="os">You guys are the idiots! This is such a tasteless thing to
+        do.</dialogue>
+    <dialogue by="unnamed" where="os">Hey, if it's up there, anybody would read it.
+        </dialogue><dialogue by="Utena" where="os">Nice guys wouldn't read this- Wakaba... Wakaba!
+        YOU sent that letter to Saionji? That Saionji jerk is not getting away with
+        this...</dialogue>
+    <dialogue by="Saionji" where="os">How should I know? Someone probably picked the letter out of
+        the trash and posted it on their own.</dialogue>
+    <dialogue by="Utena" where="os">Why did you throw it away in such a public place?
+    </dialogue>What I do with my letters is my own business. <dialogue by="Saionji" where="os">But,
+        now that I think of it, if that sort of stupid, no, silly letter has amused anyone, then all
+        the better. Was that all you wanted to talk about?</dialogue>
+    <dialogue by="Utena" where="os">No. You're the captain of the Kendo Club, right? You've got a
+        duel with me today after school!</dialogue>
+    <dialogue by="Saionji" where="os">What do you... So that's it. You're the next
+        challenger.</dialogue>
+    <dialogue by="Utena" where="os">What do you mean by that? </dialogue><dialogue by="Saionji"
+        where="os">All right, then. I'll meet you after classes at the Duel Arena in the forest at
+        the rear of the school.</dialogue>
+    <dialogue by="Utena" where="os">Forest? The one that's off-limits? </dialogue><dialogue by="SGA"
+        where="os">I wonder, I wonder... do you know what I wonder?</dialogue>
+    <dialogue by="SGB" where="os">I hear there's going to be another duel out back in the forest
+        today! </dialogue><dialogue by="SGA" where="os">Oh, brave warrior, you're going to fight for
+        your friend, meddlesome brave warrior!</dialogue>
+    <dialogue by="SGB" where="os">But beware, brave warrior... </dialogue><dialogue by="SGA"
+        where="os">They fight by a Code, there in the forest.</dialogue>
+    <dialogue by="SGB" where="os">Do you know that, I wonder? </dialogue><dialogue by="SGA"
+        where="os">I wonder, I wonder...</dialogue>
+    <dialogue by="multiple" where="os">Do you know what I wonder? </dialogue><dialogue by="Utena"
+        where="os">What the... Now how am I supposed to get into this place, anyway? And of course,
+        it's locked. Hey! That's cold! What kind of gate is this? Well, whatever. I'm going
+        in!</dialogue>
+    <song music="ZUM"/>
+    <dialogue by="Utena" where="os">A castle in midair? How? </dialogue><dialogue by="Saionji"
+        where="os">So, this is your first time to see the castle, eh?</dialogue>
+    <dialogue by="Utena" where="os">What is it? I sure couldn't see it from outside the forest.
+        </dialogue><dialogue by="Saionji" where="os">It's a mirage, of sorts. You can think of it as
+        magic, if you like.</dialogue>
+    <dialogue by="Utena" where="os">A mirage? </dialogue><dialogue by="Saionji" where="os">What
+        surprises me is someone outside the Student Council possessing a Rose Seal.</dialogue>
+    <dialogue by="Utena" where="os">Rose Seal? </dialogue><dialogue by="Saionji" where="os">I mean
+        this.</dialogue>
+    <dialogue by="Utena" where="os">That ring... </dialogue><dialogue by="Saionji" where="os">Anthy!
+        Prepare us for battle!</dialogue>
+    <dialogue by="Utena" where="os">Himemiya... Anthy... Himemiya, what are YOU doing
+        here?</dialogue>
+    <dialogue by="Saionji" where="os">Naturally, the Bride ought to be in attendance.
+        </dialogue><dialogue by="Utena" where="os">Bride? That smell... It's the same, the same as
+        my prince's roses.</dialogue>
+    <dialogue by="Anthy" where="os">The person whose rose gets scattered loses the duel.
+        </dialogue><dialogue by="Utena" where="os">Huh? </dialogue><dialogue by="Anthy" where="os"
+        >Good luck to you.</dialogue>
+    <dialogue by="Utena" where="os">What was that for? </dialogue><dialogue by="Saionji" where="os"
+        >Don't toy with me, Anthy! You're the Rose Bride, in other words, MY flower. How dare you
+        wish anyone else good luck?</dialogue>
+    <dialogue by="Anthy" where="os">I'm sorry, Saionji. </dialogue><dialogue by="Utena" where="os"
+        >Stupid! He does all this, and you still submit to him? </dialogue><dialogue by="Anthy"
+        where="os">Saionji is the current duel champion, so he can do with me as he
+        likes.</dialogue>
+    <dialogue by="Utena" where="os">What does that mean? Isn't he supposed to be your
+        boyfriend?</dialogue>
+    <dialogue by="Saionji" where="os">So, let us begin. </dialogue><dialogue by="Utena" where="os"
+        >I'm not sure what's going on here, but it doesn't matter, as long as I beat him, right?
+    </dialogue>O roses of the noble castle, <dialogue by="Utena" where="os">What? More magic?
+        </dialogue><dialogue by="Anthy" where="os">O Power of Dios that slumbers within me, Harken
+        unto thy master and reveal to us...</dialogue>
+    <dialogue by="Saionji" where="os">...the power to revolutionize the world! You're pretty good...
+        for a girl. So you want to be the prince who saves the helpless princess?
+        Unfortunately...</dialogue>
+    <dialogue by="Utena" where="os">Oh, no! That magical sword... is real?</dialogue>
+    <dialogue by="Saionji" where="os">I'm surprised at you. Really now, challenging the Sword of
+        Dios with a simple bamboo practice sword?</dialogue>
+    <dialogue by="Utena" where="os">Sword of Dios? </dialogue><dialogue by="Saionji" where="os">You
+        don't know about the Sword of Dios? Who ARE you? You ARE an intriguing creature.</dialogue>
+    <dialogue by="Utena" where="os">Hey, this fight ain't over yet! </dialogue><dialogue
+        by="Saionji" where="os">If you so desire, I'll gladly stain that rose with your blood, with
+        but a single strike. Go ahead then, risk your life and face me... if you have the courage!
+        You, a prince on a white horse, out to save a princess?</dialogue>
+    <dialogue by="voice" where="nd">"Little one bearing up alone under grief, please lose not thy
+        strength and nobility when thou growest up."</dialogue>
+    <dialogue by="Saionji" where="os">What? Stupid bitch! It can't be... I've... lost?
+        Anthy...</dialogue>
+    <dialogue by="Anthy" where="os">Take it easy, Saionji... </dialogue><dialogue by="Touga"
+        where="os">This is an unexpected turn of events. And she's in junior high school? All right,
+        baby. You've set my heart on fire. </dialogue><dialogue by="Utena" where="os">Ahh.. That was
+        really weird, whatever happened back there. What was all that, anyway? Oh well, better just
+        forget about it! Huh? You...</dialogue>
+    <dialogue by="Anthy" where="os">I've been waiting for you, Utena. I am the Rose Bride, and from
+        today on, I am your flower.</dialogue>
+    <song music="ED"/>
+</ep>
